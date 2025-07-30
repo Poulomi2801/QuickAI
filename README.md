@@ -1,7 +1,5 @@
 # Quick.ai: AI-Powered Content & Image Platform 🚀
 
-[![Deployed on Vercel](https://vercel.com/button)](https://quick-ai-three-kappa.vercel.app/) ## 🌐 Live Demo
-
 Experience Quick.ai in action: [https://quick-ai-three-kappa.vercel.app/](https://quick-ai-three-kappa.vercel.app/)
 
 ## 🎥 Video Demo
