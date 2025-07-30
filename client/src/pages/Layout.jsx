@@ -3,7 +3,7 @@ import { Outlet, useNavigate } from 'react-router-dom'
 import { assets } from '../assets/assets'
 import { Menu, X, Sidebar as SidebarIcon } from 'lucide-react'
 import { SignIn,useUser } from '@clerk/clerk-react'
-import Sidebar from '../components/sidebar'
+import Sidebar from '../components/Sidebar'
 
 const Layout = () => {
 
