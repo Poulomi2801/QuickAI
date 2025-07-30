@@ -10,7 +10,7 @@ See a full walkthrough of Quick.ai's powerful features: [Watch Demo on YouTube](
 
 ## ✨ Overview
 
-Quick.ai is a comprehensive full-stack web application designed to empower users with cutting-edge Artificial Intelligence tools for content generation and image manipulation. It provides a seamless platform for creating, enhancing, and managing various forms of digital content. Built with a modern tech stack, Quick.ai highlights robust user authentication, dynamic API integrations, and efficient cloud resource management.
+Quick.ai is a comprehensive **PERN stack** (PostgreSQL, Express.js, React.js, Node.js) **SaaS (Software as a Service) application** designed to empower users with cutting-edge AI tools for content generation and image manipulation. It provides a seamless, cloud-hosted platform for creating, enhancing, and managing various forms of digital content. Built with a modern tech stack, Quick.ai highlights robust user authentication, dynamic API integrations, and efficient cloud resource management, operating on a freemium model.
 
 ## 🌟 Key Features
 
