@@ -12,6 +12,7 @@ import ReviewResume from './pages/ReviewResume'
 import Community from './pages/Community'
 import AboutUs from './pages/AboutUs'
 import PrivacyPolicy from './pages/PrivacyPolicy'
+import WatchDemo from './pages/WatchDemo'
 import { useAuth } from '@clerk/clerk-react'
 import { useEffect } from 'react'
 import {Toaster} from 'react-hot-toast'
@@ -35,6 +36,7 @@ const App = () => {
         </Route>
         <Route path='/about-us' element={<AboutUs/>}/>
         <Route path='/privacy-policy' element={<PrivacyPolicy/>}/>
+        <Route path='/watch-demo' element={<WatchDemo/>}/>
       </Routes>
     </div>
   )
